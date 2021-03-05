@@ -1,1210 +1,1210 @@
 {
 "manifest.json": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "README.md": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/README.md"
 ],
 "wallet-confs/scalaris--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/scalaris--v1.0.0.conf"
 ],
 "wallet-confs/alqo--v3.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/alqo--v3.5.conf"
 ],
 "wallet-confs/alqo--v4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/alqo--v4.1.conf"
 ],
 "wallet-confs/amsterdamcoin--v4.6.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/amsterdamcoin--v4.6.0.0.conf"
 ],
 "wallet-confs/aprcoin--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/aprcoin--v1.0.conf"
 ],
 "wallet-confs/australiacash--v0.17.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/australiacash--v0.17.4.0.conf"
 ],
 "wallet-confs/badcoin--v0.16.3-2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/badcoin--v0.16.3-2.conf"
 ],
 "wallet-confs/banq--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/banq--v1.0.conf"
 ],
 "wallet-confs/bcz--6.0.0.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bcz--6.0.0.8.conf"
 ],
 "wallet-confs/bifrost--v1.2.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bifrost--v1.2.0.conf"
 ],
 "wallet-confs/bitbay--v2.1.2a.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitbay--v2.1.2a.conf"
 ],
 "wallet-confs/bitcloud--2.1.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcloud--2.1.0.1.1.conf"
 ],
 "wallet-confs/bitcoincash--v0.21.11.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoincash--v0.21.11.conf"
 ],
 "wallet-confs/bitcoindiamond--v1.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoindiamond--v1.3.0.conf"
 ],
 "wallet-confs/bitcoingold--v0.17.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoingold--v0.17.2.conf"
 ],
 "wallet-confs/bitcoingreen--1.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoingreen--1.1.0.conf"
 ],
 "wallet-confs/bitcoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoin--v0.15.1.conf"
 ],
 "wallet-confs/bitcoin--v0.16.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoin--v0.16.0.conf"
 ],
 "wallet-confs/bitcoin--v0.17.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoin--v0.17.0.conf"
 ],
 "wallet-confs/bitcoinzero--5.0.0.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcoinzero--5.0.0.5.conf"
 ],
 "wallet-confs/bitcore--0.15.2.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcore--0.15.2.0.0.conf"
 ],
 "wallet-confs/bitcore--0.90.8.8.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitcore--0.90.8.8.1.conf"
 ],
 "wallet-confs/bitgreen--v1.4.0.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitgreen--v1.4.0.8.conf"
 ],
 "wallet-confs/bitmoney--2.2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitmoney--2.2.0.2.conf"
 ],
 "wallet-confs/blocknetdx--v3.9.16.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/blocknetdx--v3.9.16.conf"
 ],
 "wallet-confs/blocknet--v4.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/blocknet--v4.0.1.conf"
 ],
 "wallet-confs/bulwark--1.2.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bulwark--1.2.4.conf"
 ],
 "wallet-confs/carebitcoin--v3.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/carebitcoin--v3.0.0.0.conf"
 ],
 "wallet-confs/ccbc--v1.2.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ccbc--v1.2.0.1.conf"
 ],
 "wallet-confs/crowdcoin--1.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/crowdcoin--1.1.0.conf"
 ],
 "wallet-confs/crown--v0.12.4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/crown--v0.12.4.1.conf"
 ],
 "wallet-confs/dash--v0.12.2.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dash--v0.12.2.3.conf"
 ],
 "wallet-confs/diamond--v3.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/diamond--v3.0.1.1.conf"
 ],
 "wallet-confs/digibyte--v6.16.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/digibyte--v6.16.2.conf"
 ],
 "wallet-confs/dinero--v1.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dinero--v1.0.1.1.conf"
 ],
 "wallet-confs/divi--desk-1.2.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/divi--desk-1.2.2.1.conf"
 ],
 "wallet-confs/divi--DESK-1.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/divi--DESK-1.2.2.conf"
 ],
 "wallet-confs/divi--v1.0.4-core.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/divi--v1.0.4-core.conf"
 ],
 "wallet-confs/dogecash--3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dogecash--3.0.0.conf"
 ],
 "wallet-confs/dogecoin--v1.10.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dogecoin--v1.10.0.conf"
 ],
 "wallet-confs/dogecoin--v1.10.0-dogeparty.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dogecoin--v1.10.0-dogeparty.conf"
 ],
 "wallet-confs/dynamic--v2.3.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/dynamic--v2.3.5.0.conf"
 ],
 "wallet-confs/einsteinium--v0.13.48.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/einsteinium--v0.13.48.0.conf"
 ],
 "wallet-confs/electra--2.0.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/electra--2.0.2.1.conf"
 ],
 "wallet-confs/Electra--2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/Electra--2.0.2.conf"
 ],
 "wallet-confs/emercoin--v0.7.10emc.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/emercoin--v0.7.10emc.conf"
 ],
 "wallet-confs/eternity--v0.12.1.7.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/eternity--v0.12.1.7.conf"
 ],
 "wallet-confs/experiencepoints--v3.4.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/experiencepoints--v3.4.0.3.conf"
 ],
 "wallet-confs/faircoin--v2.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/faircoin--v2.0.0.conf"
 ],
 "wallet-confs/flo--v0.15.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/flo--v0.15.0.3.conf"
 ],
 "wallet-confs/flo--v0.15.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/flo--v0.15.2.1.conf"
 ],
 "wallet-confs/fujicoin--fujicoin-v0.16.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/fujicoin--fujicoin-v0.16.1.conf"
 ],
 "wallet-confs/gamblecoin--1.1.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/gamblecoin--1.1.4.conf"
 ],
 "wallet-confs/geekcash--v1.3.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/geekcash--v1.3.0.1.conf"
 ],
 "wallet-confs/hash--v1.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/hash--v1.4.0.conf"
 ],
 "wallet-confs/hexxcoin--4.0.3.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/hexxcoin--4.0.3.8.conf"
 ],
 "wallet-confs/htmlcoin--v2.0.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/htmlcoin--v2.0.3.0.conf"
 ],
 "wallet-confs/innova--12.1.10.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/innova--12.1.10.conf"
 ],
 "wallet-confs/innova--v4.3.8.6.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/innova--v4.3.8.6.conf"
 ],
 "wallet-confs/kyd--v3.2.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/kyd--v3.2.0.3.conf"
 ],
 "wallet-confs/kzcash--v0.1.9.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/kzcash--v0.1.9.1.conf"
 ],
 "wallet-confs/lbrycrd--v0.12.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/lbrycrd--v0.12.2.1.conf"
 ],
 "wallet-confs/lbrycrd--v0.17.2.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/lbrycrd--v0.17.2.0.conf"
 ],
 "wallet-confs/lightpaycoin--v1.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/lightpaycoin--v1.0.0.0.conf"
 ],
 "wallet-confs/litecoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoin--v0.15.1.conf"
 ],
 "wallet-confs/litecoin--v0.16.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoin--v0.16.0.conf"
 ],
 "wallet-confs/litecoin--v0.16.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoin--v0.16.3.conf"
 ],
 "wallet-confs/litecoin--v0.17.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoin--v0.17.1.conf"
 ],
 "wallet-confs/litecoin--v0.18.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoin--v0.18.1.conf"
 ],
 "wallet-confs/logiscoin--v2.0.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/logiscoin--v2.0.3.0.conf"
 ],
 "wallet-confs/lux--v5.3.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/lux--v5.3.3.conf"
 ],
 "wallet-confs/lynx--v0.15.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/lynx--v0.15.1.0.conf"
 ],
 "wallet-confs/machinecoin--v0.16.1.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/machinecoin--v0.16.1.4.conf"
 ],
 "wallet-confs/mgn--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/mgn--v1.0.0.conf"
 ],
 "wallet-confs/minexcoin--v1.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/minexcoin--v1.3.1.conf"
 ],
 "wallet-confs/mktcoin--0.14.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/mktcoin--0.14.3.conf"
 ],
 "wallet-confs/mnpcoin--v1.2.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/mnpcoin--v1.2.5.conf"
 ],
 "wallet-confs/monacoin--monacoin-0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/monacoin--monacoin-0.15.1.conf"
 ],
 "wallet-confs/monacoin--monacoin-0.16.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/monacoin--monacoin-0.16.2.conf"
 ],
 "wallet-confs/monacoin--monacoin-0.16.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/monacoin--monacoin-0.16.3.conf"
 ],
 "wallet-confs/monacoin--monacoin-0.17.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/monacoin--monacoin-0.17.1.conf"
 ],
 "wallet-confs/monetaryunit--v2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/monetaryunit--v2.0.2.conf"
 ],
 "wallet-confs/mue--v1.0.3.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/mue--v1.0.3.2.conf"
 ],
 "wallet-confs/myriadcoin--v0.14.2.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/myriadcoin--v0.14.2.5.conf"
 ],
 "wallet-confs/myriadcoin--v0.16.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/myriadcoin--v0.16.3.0.conf"
 ],
 "wallet-confs/namecoin--nc0.13.99-name-tab-beta1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/namecoin--nc0.13.99-name-tab-beta1.conf"
 ],
 "wallet-confs/nativecoin--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/nativecoin--v1.0.0.conf"
 ],
 "wallet-confs/noir--v1.0.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/noir--v1.0.0.2.conf"
 ],
 "wallet-confs/northern--1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/northern--1.0.0.conf"
 ],
 "wallet-confs/nyerium--v1.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/nyerium--v1.0.3.conf"
 ],
 "wallet-confs/nyx--v2.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/nyx--v2.0.0.0.conf"
 ],
 "wallet-confs/odin--v1.4.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/odin--v1.4.2.conf"
 ],
 "wallet-confs/ohmc--2.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ohmc--2.3.1.conf"
 ],
 "wallet-confs/ohmc--v2.3.0.0-gcbcb549.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ohmc--v2.3.0.0-gcbcb549.conf"
 ],
 "wallet-confs/paccoin--v0.12.5.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/paccoin--v0.12.5.1.conf"
 ],
 "wallet-confs/pacglobal--v0.15-da839021c.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/pacglobal--v0.15-da839021c.conf"
 ],
 "wallet-confs/phore--v1.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/phore--v1.3.0.conf"
 ],
 "wallet-confs/phore--v1.3.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/phore--v1.3.3.1.conf"
 ],
 "wallet-confs/placeh--2.0.30.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/placeh--2.0.30.5.conf"
 ],
 "wallet-confs/polis--v1.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/polis--v1.3.1.conf"
 ],
 "wallet-confs/pura--v1.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/pura--v1.0.0.0.conf"
 ],
 "wallet-confs/qbiccoin--v1.0.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/qbiccoin--v1.0.1.0.conf"
 ],
 "wallet-confs/qbic--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/qbic--v1.0.conf"
 ],
 "wallet-confs/qtum--mainnet-ignition-v0.15.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/qtum--mainnet-ignition-v0.15.2.conf"
 ],
 "wallet-confs/qtum--mainnet-ignition-v0.17.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/qtum--mainnet-ignition-v0.17.1.conf"
 ],
 "wallet-confs/rapids--v1.0.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/rapids--v1.0.0.1.conf"
 ],
 "wallet-confs/rapture--v1.1.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/rapture--v1.1.2.2.conf"
 ],
 "wallet-confs/raven--v0.15.99.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/raven--v0.15.99.0.conf"
 ],
 "wallet-confs/reecore--v1.4.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/reecore--v1.4.2.2.conf"
 ],
 "wallet-confs/rupaya--v5.2.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/rupaya--v5.2.0.conf"
 ],
 "wallet-confs/scribe--v0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/scribe--v0.2.conf"
 ],
 "wallet-confs/securecloud--v2.4.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/securecloud--v2.4.3.conf"
 ],
 "wallet-confs/send--v1.1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/send--v1.1.0.0.conf"
 ],
 "wallet-confs/sequence--v1.3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/sequence--v1.3.0.0.conf"
 ],
 "wallet-confs/shekel--1.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/shekel--1.4.0.conf"
 ],
 "wallet-confs/sibcoin--v0.16.1.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/sibcoin--v0.16.1.3.conf"
 ],
 "wallet-confs/solaris--v2.8.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/solaris--v2.8.0.0.conf"
 ],
 "wallet-confs/sparks--0.12.1.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/sparks--0.12.1.3.conf"
 ],
 "wallet-confs/sparks--v0.12.3.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/sparks--v0.12.3.2.conf"
 ],
 "wallet-confs/straks--1.14.7.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/straks--1.14.7.3.conf"
 ],
 "wallet-confs/sucr--v0.12.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/sucr--v0.12.2.1.conf"
 ],
 "wallet-confs/sucr--v0.12.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/syndicate--v2.0.0.conf"
 ],
 "wallet-confs/syscoin--3.0.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/syscoin--3.0.5.0.conf"
 ],
 "wallet-confs/syscoin--v4.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/syscoin--v4.0.3.conf"
 ],
 "wallet-confs/terracoin--v0.12.1.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/terracoin--v0.12.1.8.conf"
 ],
 "wallet-confs/tribe--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/tribe--v1.0.0.conf"
 ],
 "wallet-confs/ucom--v0.1.8.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ucom--v0.1.8.1.conf"
 ],
 "wallet-confs/ufocoin--v0.16.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ufocoin--v0.16.1.conf"
 ],
 "wallet-confs/ufocoin--v0.17.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ufocoin--v0.17.0.conf"
 ],
 "wallet-confs/ufocoin--v0.18.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ufocoin--v0.18.0.conf"
 ],
 "wallet-confs/ultranatum--1.1.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/ultranatum--1.1.0.2.conf"
 ],
 "wallet-confs/unbreakablecoin--v0.10.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/unbreakablecoin--v0.10.3.0.conf"
 ],
 "wallet-confs/unitedcryptocommunity--v0.1.8.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/unitedcryptocommunity--v0.1.8.1.conf"
 ],
 "wallet-confs/unobtanium--v0.10.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/unobtanium--v0.10.1.1.conf"
 ],
 "wallet-confs/verge--v6.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/verge--v6.0.2.conf"
 ],
 "wallet-confs/vertcoin--0.12.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vertcoin--0.12.0.conf"
 ],
 "wallet-confs/vertcoin--0.13.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vertcoin--0.13.0.conf"
 ],
 "wallet-confs/vertcoin--0.13.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vertcoin--0.13.2.conf"
 ],
 "wallet-confs/viacoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/viacoin--v0.15.1.conf"
 ],
 "wallet-confs/viacoin--v0.16.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/viacoin--v0.16.3.conf"
 ],
 "wallet-confs/vitae--v4.1.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vitae--v4.1.0.1.conf"
 ],
 "wallet-confs/vivo--v0.12.1.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vivo--v0.12.1.8.conf"
 ],
 "wallet-confs/vsync--v3.8.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vsync--v3.8.5.0.conf"
 ],
 "wallet-confs/vyigrat--v1.3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/vyigrat--v1.3.0.0.conf"
 ],
 "wallet-confs/wagerr--1.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/wagerr--1.5.0.conf"
 ],
 "wallet-confs/xaya--v1.4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/xaya--v1.4.1.conf"
 ],
 "wallet-confs/xcurrency--v3.0.05.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/xcurrency--v3.0.05.conf"
 ],
 "wallet-confs/xsn--v1.0.9.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/xsn--v1.0.9.conf"
 ],
 "wallet-confs/zcoin--v0.13.6.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/zcoin--v0.13.6.4.conf"
 ],
 "wallet-confs/zenzo--v2.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/zenzo--v2.1.0.conf"
 ],
 "wallet-confs/zest--v1.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/zest--v1.0.3.conf"
 ],
 "wallet-confs/zoin--v0.13.1.6.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/zoin--v0.13.1.6.conf"
 ],
 "xbridge-confs/alqo--v3.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/alqo--v3.5.conf"
 ],
 "xbridge-confs/alqo--v4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/alqo--v4.1.conf"
 ],
 "xbridge-confs/amsterdamcoin--v4.6.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/amsterdamcoin--v4.6.0.0.conf"
 ],
 "xbridge-confs/aprcoin--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/aprcoin--v1.0.conf"
 ],
 "xbridge-confs/australiacash--v0.17.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/australiacash--v0.17.4.0.conf"
 ],
 "xbridge-confs/badcoin--v0.16.3-2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/badcoin--v0.16.3-2.conf"
 ],
 "xbridge-confs/banq--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/banq--v1.0.conf"
 ],
 "xbridge-confs/bcz--6.0.0.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bcz--6.0.0.8.conf"
 ],
 "xbridge-confs/bifrost--v1.2.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bifrost--v1.2.0.conf"
 ],
 "xbridge-confs/bitbay--v2.1.2a.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitbay--v2.1.2a.conf"
 ],
 "xbridge-confs/bitcloud--2.1.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcloud--2.1.0.1.1.conf"
 ],
 "xbridge-confs/bitcoincash--v0.21.11.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoincash--v0.21.11.conf"
 ],
 "xbridge-confs/bitcoindiamond--v1.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoindiamond--v1.3.0.conf"
 ],
 "xbridge-confs/bitcoingold--v0.17.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoingold--v0.17.2.conf"
 ],
 "xbridge-confs/bitcoingreen--1.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoingreen--1.1.0.conf"
 ],
 "xbridge-confs/bitcoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoin--v0.15.1.conf"
 ],
 "xbridge-confs/bitcoin--v0.20.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoin--v0.20.0.conf"
 ],
 "xbridge-confs/bitcoin--v0.21.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoin--v0.21.0.conf"
 ],
 "xbridge-confs/bitcoinzero--5.0.0.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoinzero--5.0.0.5.conf"
 ],
 "xbridge-confs/bitcore--0.15.2.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcore--0.15.2.0.0.conf"
 ],
 "xbridge-confs/bitgreen--v1.4.0.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitgreen--v1.4.0.8.conf"
 ],
 "xbridge-confs/bitmoney--2.2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitmoney--2.2.0.2.conf"
 ],
 "xbridge-confs/blocknetdx--v3.9.16.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/blocknetdx--v3.9.16.conf"
 ],
 "xbridge-confs/blocknet--v4.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/blocknet--v4.0.1.conf"
 ],
 "xbridge-confs/scalaris--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/scalaris--v1.0.0.conf"
 ],
 "xbridge-confs/bulwark--1.2.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bulwark--1.2.4.conf"
 ],
 "xbridge-confs/carebitcoin--v3.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/carebitcoin--v3.0.0.0.conf"
 ],
 "xbridge-confs/ccbc--v1.2.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ccbc--v1.2.0.1.conf"
 ],
 "xbridge-confs/crowdcoin--1.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/crowdcoin--1.1.0.conf"
 ],
 "xbridge-confs/crown--v0.12.4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/crown--v0.12.4.1.conf"
 ],
 "xbridge-confs/dash--v0.12.2.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dash--v0.12.2.3.conf"
 ],
 "xbridge-confs/diamond--v3.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/diamond--v3.0.1.1.conf"
 ],
 "xbridge-confs/digibyte--v6.16.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/digibyte--v6.16.2.conf"
 ],
 "xbridge-confs/dinero--v1.0.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dinero--v1.0.1.1.conf"
 ],
 "xbridge-confs/divi--desk-1.2.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/divi--desk-1.2.2.1.conf"
 ],
 "xbridge-confs/divi--DESK-1.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/divi--DESK-1.2.2.conf"
 ],
 "xbridge-confs/divi--v1.0.4-core.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/divi--v1.0.4-core.conf"
 ],
 "xbridge-confs/dogecash--3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dogecash--3.0.0.conf"
 ],
 "xbridge-confs/dogecoin--v1.10.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dogecoin--v1.10.0.conf"
 ],
 "xbridge-confs/dogecoin--v1.10.0-dogeparty.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dogecoin--v1.10.0-dogeparty.conf"
 ],
 "xbridge-confs/dynamic--v2.3.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/dynamic--v2.3.5.0.conf"
 ],
 "xbridge-confs/einsteinium--v0.13.48.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/einsteinium--v0.13.48.0.conf"
 ],
 "xbridge-confs/electra--2.0.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/electra--2.0.2.1.conf"
 ],
 "xbridge-confs/Electra--2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/Electra--2.0.2.conf"
 ],
 "xbridge-confs/emercoin--v0.7.10emc.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/emercoin--v0.7.10emc.conf"
 ],
 "xbridge-confs/eternity--v0.12.1.7.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/eternity--v0.12.1.7.conf"
 ],
 "xbridge-confs/experiencepoints--v3.4.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/experiencepoints--v3.4.0.3.conf"
 ],
 "xbridge-confs/faircoin--v2.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/faircoin--v2.0.0.conf"
 ],
 "xbridge-confs/flo--v0.15.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/flo--v0.15.0.3.conf"
 ],
 "xbridge-confs/fujicoin--fujicoin-v0.16.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/fujicoin--fujicoin-v0.16.1.conf"
 ],
 "xbridge-confs/gamblecoin--1.1.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/gamblecoin--1.1.4.conf"
 ],
 "xbridge-confs/geekcash--v1.3.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/geekcash--v1.3.0.1.conf"
 ],
 "xbridge-confs/hash--v1.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/hash--v1.4.0.conf"
 ],
 "xbridge-confs/hexxcoin--4.0.3.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/hexxcoin--4.0.3.8.conf"
 ],
 "xbridge-confs/htmlcoin--v2.0.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/htmlcoin--v2.0.3.0.conf"
 ],
 "xbridge-confs/innova--12.1.10.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/innova--12.1.10.conf"
 ],
 "xbridge-confs/innova--v4.3.8.6.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/innova--v4.3.8.6.conf"
 ],
 "xbridge-confs/kyd--3.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/kyd--3.3.1.conf"
 ],
 "xbridge-confs/kyd--v3.2.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/kyd--v3.2.0.3.conf"
 ],
 "xbridge-confs/kzcash--v0.1.9.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/kzcash--v0.1.9.1.conf"
 ],
 "xbridge-confs/lbrycrd--v0.12.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/lbrycrd--v0.12.2.1.conf"
 ],
 "xbridge-confs/lightpaycoin--v1.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/lightpaycoin--v1.0.0.0.conf"
 ],
 "xbridge-confs/litecoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/litecoin--v0.15.1.conf"
 ],
 "xbridge-confs/litecoin--v0.18.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/litecoin--v0.18.1.conf"
 ],
 "xbridge-confs/logiscoin--v2.0.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/logiscoin--v2.0.3.0.conf"
 ],
 "xbridge-confs/lux--v5.3.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/lux--v5.3.3.conf"
 ],
 "xbridge-confs/lynx--v0.15.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/lynx--v0.15.1.0.conf"
 ],
 "xbridge-confs/machinecoin--v0.16.1.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/machinecoin--v0.16.1.4.conf"
 ],
 "xbridge-confs/mgn--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/mgn--v1.0.0.conf"
 ],
 "xbridge-confs/minexcoin--v1.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/minexcoin--v1.3.1.conf"
 ],
 "xbridge-confs/mktcoin--0.14.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/mktcoin--0.14.3.conf"
 ],
 "xbridge-confs/mnpcoin--v1.2.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/mnpcoin--v1.2.5.conf"
 ],
 "xbridge-confs/monacoin--monacoin-0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/monacoin--monacoin-0.15.1.conf"
 ],
 "xbridge-confs/monetaryunit--v2.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/monetaryunit--v2.0.2.conf"
 ],
 "xbridge-confs/mue--v1.0.3.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/mue--v1.0.3.2.conf"
 ],
 "xbridge-confs/myriadcoin--v0.14.2.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/myriadcoin--v0.14.2.5.conf"
 ],
 "xbridge-confs/namecoin--nc0.13.99-name-tab-beta1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/namecoin--nc0.13.99-name-tab-beta1.conf"
 ],
 "xbridge-confs/nativecoin--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/nativecoin--v1.0.0.conf"
 ],
 "xbridge-confs/noir--v1.0.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/noir--v1.0.0.2.conf"
 ],
 "xbridge-confs/northern--1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/northern--1.0.0.conf"
 ],
 "xbridge-confs/nyerium--v1.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/nyerium--v1.0.3.conf"
 ],
 "xbridge-confs/nyx--v2.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/nyx--v2.0.0.0.conf"
 ],
 "xbridge-confs/odin--v1.4.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/odin--v1.4.2.conf"
 ],
 "xbridge-confs/ohmc--2.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ohmc--2.3.1.conf"
 ],
 "xbridge-confs/ohmc--v2.3.0.0-gcbcb549.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ohmc--v2.3.0.0-gcbcb549.conf"
 ],
 "xbridge-confs/paccoin--v0.12.5.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/paccoin--v0.12.5.1.conf"
 ],
 "xbridge-confs/pacglobal--v0.15-da839021c.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/pacglobal--v0.15-da839021c.conf"
 ],
 "xbridge-confs/phore--v1.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/phore--v1.3.0.conf"
 ],
 "xbridge-confs/phore--v1.3.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/phore--v1.3.3.1.conf"
 ],
 "xbridge-confs/placeh--2.0.30.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/placeh--2.0.30.5.conf"
 ],
 "xbridge-confs/polis--v1.3.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/polis--v1.3.1.conf"
 ],
 "xbridge-confs/pura--v1.0.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/pura--v1.0.0.0.conf"
 ],
 "xbridge-confs/qbiccoin--v1.0.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/qbiccoin--v1.0.1.0.conf"
 ],
 "xbridge-confs/qbic--v1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/qbic--v1.0.conf"
 ],
 "xbridge-confs/qtum--mainnet-ignition-v0.15.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/qtum--mainnet-ignition-v0.15.2.conf"
 ],
 "xbridge-confs/rapids--v1.0.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/rapids--v1.0.0.1.conf"
 ],
 "xbridge-confs/rapture--v1.1.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/rapture--v1.1.2.2.conf"
 ],
 "xbridge-confs/raven--v0.15.99.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/raven--v0.15.99.0.conf"
 ],
 "xbridge-confs/reecore--v1.4.2.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/reecore--v1.4.2.2.conf"
 ],
 "xbridge-confs/rupaya--v5.2.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/rupaya--v5.2.0.conf"
 ],
 "xbridge-confs/scribe--v0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/scribe--v0.2.conf"
 ],
 "xbridge-confs/securecloud--v2.4.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/securecloud--v2.4.3.conf"
 ],
 "xbridge-confs/send--v1.1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/send--v1.1.0.0.conf"
 ],
 "xbridge-confs/sequence--v1.3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/sequence--v1.3.0.0.conf"
 ],
 "xbridge-confs/shekel--1.4.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/shekel--1.4.0.conf"
 ],
 "xbridge-confs/sibcoin--v0.16.1.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/sibcoin--v0.16.1.3.conf"
 ],
 "xbridge-confs/solaris--v2.8.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/solaris--v2.8.0.0.conf"
 ],
 "xbridge-confs/sparks--0.12.1.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/sparks--0.12.1.3.conf"
 ],
 "xbridge-confs/sparks--v0.12.3.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/sparks--v0.12.3.2.conf"
 ],
 "xbridge-confs/straks--1.14.7.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/straks--1.14.7.3.conf"
 ],
 "xbridge-confs/sucr--v0.12.2.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/sucr--v0.12.2.1.conf"
 ],
 "xbridge-confs/syndicate--v2.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/syndicate--v2.0.0.conf"
 ],
 "xbridge-confs/syscoin--3.0.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/syscoin--3.0.5.0.conf"
 ],
 "xbridge-confs/syscoin--v4.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/syscoin--v4.0.3.conf"
 ],
 "xbridge-confs/terracoin--v0.12.1.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/terracoin--v0.12.1.8.conf"
 ],
 "xbridge-confs/tribe--v1.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/tribe--v1.0.0.conf"
 ],
 "xbridge-confs/ucom--v0.1.8.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ucom--v0.1.8.1.conf"
 ],
 "xbridge-confs/ufocoin--v0.16.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ufocoin--v0.16.1.conf"
 ],
 "xbridge-confs/ultranatum--1.1.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/ultranatum--1.1.0.2.conf"
 ],
 "xbridge-confs/unbreakablecoin--v0.10.3.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/unbreakablecoin--v0.10.3.0.conf"
 ],
 "xbridge-confs/unitedcryptocommunity--v0.1.8.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/unitedcryptocommunity--v0.1.8.1.conf"
 ],
 "xbridge-confs/unobtanium--v0.10.1.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/unobtanium--v0.10.1.1.conf"
 ],
 "xbridge-confs/verge--v6.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/verge--v6.0.2.conf"
 ],
 "xbridge-confs/vertcoin--0.12.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vertcoin--0.12.0.conf"
 ],
 "xbridge-confs/vertcoin--0.13.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vertcoin--0.13.2.conf"
 ],
 "xbridge-confs/viacoin--v0.15.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/viacoin--v0.15.1.conf"
 ],
 "xbridge-confs/vitae--v4.1.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vitae--v4.1.0.1.conf"
 ],
 "xbridge-confs/vivo--v0.12.1.8.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vivo--v0.12.1.8.conf"
 ],
 "xbridge-confs/vsync--v3.8.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vsync--v3.8.5.0.conf"
 ],
 "xbridge-confs/vyigrat--v1.3.0.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/vyigrat--v1.3.0.0.conf"
 ],
 "xbridge-confs/wagerr--1.5.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/wagerr--1.5.0.conf"
 ],
 "xbridge-confs/xcurrency--v3.0.05.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/xcurrency--v3.0.05.conf"
 ],
 "xbridge-confs/xsn--v1.0.9.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/xsn--v1.0.9.conf"
 ],
 "xbridge-confs/zcoin--v0.13.6.4.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/zcoin--v0.13.6.4.conf"
 ],
 "xbridge-confs/zenzo--v2.1.0.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/zenzo--v2.1.0.conf"
 ],
 "xbridge-confs/zest--v1.0.3.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/zest--v1.0.3.conf"
 ],
 "xbridge-confs/zoin--v0.13.1.6.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/zoin--v0.13.1.6.conf"
 ],
 "xbridge-confs/xaya--v1.4.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/xaya--v1.4.1.conf"
 ],
 "wallet-confs/stakecubecoin--v3.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/stakecubecoin--v3.0.2.conf"
 ],
 "xbridge-confs/stakecubecoin--v3.0.2.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/stakecubecoin--v3.0.2.conf"
 ],
 "wallet-confs/swiftcash--3.0.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/swiftcash--3.0.5.conf"
 ],
 "xbridge-confs/swiftcash--3.0.5.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/swiftcash--3.0.5.conf"
 ],
 "wallet-confs/goldcoin--v0.14.7.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/goldcoin--v0.14.7.conf"
 ],
 "xbridge-confs/goldcoin--v0.14.7.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/goldcoin--v0.14.7.conf"
 ],
 "wallet-confs/pivx--v5.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/pivx--v5.0.1.conf"
 ],
 "xbridge-confs/pivx--v5.0.1.conf": [
-"76885169b945d137817d6d02a2c9dd38687f8f09",
+"1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/pivx--v5.0.1.conf"
 ]
 }
