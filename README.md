@@ -6,8 +6,8 @@ This repository contains:
  * Directions on how to setup configuration files for use of the Blocknet Protocol;
  * Directions on how to test a blockchain for compatibility with XBridge;
 
-[Website](https://scalaris.info) | [API](https://api.scalaris.info) | [Documentation](https://docs.scalaris.info) | [Discord](https://discord.gg/HKbdGANbZA)
--------------------------------|----------------------------------------------|--------------------------------------|--------------------------------------
+[Website](https://scalaris.info) | [API](https://api.scalaris.info) | [Documentation](https://docs.scalaris.info) | [Discord](https://discord.gg/HKbdGANbZA) | [Telegram](https://t.me/scalaris_project)
+-------------------------------|----------------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------
 
 
 Table of contents
