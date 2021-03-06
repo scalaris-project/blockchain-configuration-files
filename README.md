@@ -222,7 +222,7 @@ Confirmations=0                 | Confirmations is the minimum amount of transac
 
 
 ### Creating a Wallet File
-In this explanation, Scalaris wallet [v1.9.0](https://github.com/scalaris-project/scalaris/releases/tag/v1.0.0) will be used as an example throughout the process of creating an wallet configuration file. The name this file is saved as should be the same as the `ver_id` of the original `manifest` version group it was created for. Blocknet example: `"ver_id": "scalaris--v1.0.0"` yields `scalaris--v1.0.0.conf`;
+In this explanation, Scalaris wallet [v1.0.0](https://github.com/scalaris-project/scalaris/releases/tag/v1.0.0) will be used as an example throughout the process of creating an wallet configuration file. The name this file is saved as should be the same as the `ver_id` of the original `manifest` version group it was created for. Blocknet example: `"ver_id": "scalaris--v1.0.0"` yields `scalaris--v1.0.0.conf`;
 
 Setting                         | Procedure
 --------------------------------|----------------
