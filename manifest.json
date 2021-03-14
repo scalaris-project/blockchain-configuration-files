@@ -211,7 +211,7 @@
     "dir_name_win": "BCZ",
     "repo_url": "https://github.com/SpecialCoins/bitcoincz",
     "versions": [
-      "6.0.3.2"
+      "6.0.3.3"
     ],
     "xbridge_conf": "bcz--6.0.0.8.conf",
     "wallet_conf": "bcz--6.0.0.8.conf"
