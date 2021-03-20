@@ -1,10 +1,10 @@
 {
 "manifest.json": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"911e3789f13d7c393a1466868b5a0d8e8e23aa4e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"911e3789f13d7c393a1466868b5a0d8e8e23aa4e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
@@ -1206,5 +1206,13 @@
 "xbridge-confs/pivx--v5.0.1.conf": [
 "1e6fa71fe6b046acc30506c7c777768f51ffc387",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/pivx--v5.0.1.conf"
+],
+"wallet-confs/yenten--v4.0.2.conf": [
+"911e3789f13d7c393a1466868b5a0d8e8e23aa4e",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/yenten--v4.0.2.conf"
+],
+"xbridge-confs/yenten--v4.0.2.conf": [
+"be7a8a4a7349fdcd6d8ae06c467e5448021c1eae",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/yenten--v4.0.2.conf"
 ]
 }
