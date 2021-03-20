@@ -1688,6 +1688,23 @@
     "wallet_conf": "xcurrency--v3.0.05.conf"
   },
   {
+    "blockchain": "Yenten",
+    "ticker": "YTN",
+    "ver_id": "yenten--v4.0.2",
+    "ver_name": "Yenten v4.0.x",
+    "conf_name": "yenten.conf",
+    "dir_name_linux": "yenten",
+    "dir_name_mac": "Yenten",
+    "dir_name_win": "Yenten",
+    "repo_url": "https://github.com/yentencoin/yenten",
+    "versions": [
+      "v4.0.1",
+      "v4.0.2"
+    ],
+    "xbridge_conf": "yenten--v4.0.2.conf",
+    "wallet_conf": "yenten--v4.0.2.conf"
+  },
+  {
     "blockchain": "ZCoin",
     "ticker": "XZC",
     "ver_id": "zcoin--v0.13.6.4",
