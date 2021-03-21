@@ -1698,8 +1698,8 @@
     "dir_name_win": "Yenten",
     "repo_url": "https://github.com/yentencoin/yenten",
     "versions": [
-      "v4.0.1",
-      "v4.0.2"
+      "4.0.1",
+      "4.0.2"
     ],
     "xbridge_conf": "yenten--v4.0.2.conf",
     "wallet_conf": "yenten--v4.0.2.conf"
