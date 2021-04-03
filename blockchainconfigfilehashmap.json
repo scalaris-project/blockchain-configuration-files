@@ -16,7 +16,7 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/README.md"
 ],
 "wallet-confs/scalaris--v1.0.0.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"03cbac3697d90704ea1d04f346ff0c4af7d9d1e1",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/scalaris--v1.0.0.conf"
 ],
 "wallet-confs/alqo--v3.5.conf": [
@@ -112,11 +112,11 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/bitmoney--2.2.0.2.conf"
 ],
 "wallet-confs/blocknetdx--v3.9.16.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"03cbac3697d90704ea1d04f346ff0c4af7d9d1e1",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/blocknetdx--v3.9.16.conf"
 ],
 "wallet-confs/blocknet--v4.0.1.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"03cbac3697d90704ea1d04f346ff0c4af7d9d1e1",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/blocknet--v4.0.1.conf"
 ],
 "wallet-confs/bulwark--1.2.4.conf": [
@@ -700,7 +700,7 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcoinzero--5.0.0.5.conf"
 ],
 "xbridge-confs/bitcore--0.15.2.0.0.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"b17db030732d3b39161ae5c4f19ff95bdb133448",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitcore--0.15.2.0.0.conf"
 ],
 "xbridge-confs/bitgreen--v1.4.0.8.conf": [
