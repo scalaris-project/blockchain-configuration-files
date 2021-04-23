@@ -1,14 +1,14 @@
 {
 "manifest.json": [
-"d1af0bf43f7fd6acbe3c19350f7d161e755e513d",
+"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"d1af0bf43f7fd6acbe3c19350f7d161e755e513d",
+"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "README.md": [
@@ -1176,11 +1176,11 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/xaya--v1.4.1.conf"
 ],
 "wallet-confs/stakecubecoin--v3.0.2.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/stakecubecoin--v3.0.2.conf"
 ],
 "xbridge-confs/stakecubecoin--v3.0.2.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/stakecubecoin--v3.0.2.conf"
 ],
 "wallet-confs/swiftcash--3.0.5.conf": [
