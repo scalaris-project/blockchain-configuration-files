@@ -1,10 +1,10 @@
 {
 "manifest.json": [
-"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
+"a12fb9479045b9d26397520147b6c27d181524fd",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
+"a12fb9479045b9d26397520147b6c27d181524fd",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
@@ -12,7 +12,7 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "manifests/manifest-1.0.1.0.json": [
-"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
+"a12fb9479045b9d26397520147b6c27d181524fd",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "README.md": [
