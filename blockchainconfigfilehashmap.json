@@ -1,14 +1,18 @@
 {
 "manifest.json": [
-"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"3a9942f9c6e5bcc6e72430023419e3e6e171479e",
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
 "3a9942f9c6e5bcc6e72430023419e3e6e171479e",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
+],
+"manifests/manifest-1.0.1.0.json": [
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "README.md": [
@@ -876,7 +880,7 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/litecoin--v0.15.1.conf"
 ],
 "xbridge-confs/litecoin--v0.18.1.conf": [
-"1e6fa71fe6b046acc30506c7c777768f51ffc387",
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/litecoin--v0.18.1.conf"
 ],
 "xbridge-confs/logiscoin--v2.0.3.0.conf": [
@@ -1214,5 +1218,13 @@
 "xbridge-confs/yenten--v4.0.2.conf": [
 "be7a8a4a7349fdcd6d8ae06c467e5448021c1eae",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/yenten--v4.0.2.conf"
+],
+"wallet-confs/litecoinfinance--v4.0.0.0.conf": [
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/litecoinfinance--v4.0.0.0.conf"
+],
+"xbridge-confs/litecoinfinance--v4.0.0.0.conf": [
+"1b05cc2c5e9286d0b4fdc4f17fcfe2d8e7a073e4",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/litecoinfinance--v4.0.0.0.conf"
 ]
 }
