@@ -331,7 +331,7 @@
     "dir_name_win": "Scalaris",
     "repo_url": "https://github.com/scalaris-project/scalaris",
     "versions": [
-      "v1.0.0"
+      "v1.0.1"
     ],
     "xbridge_conf": "scalaris--v1.0.0.conf",
     "wallet_conf": "scalaris--v1.0.0.conf"
