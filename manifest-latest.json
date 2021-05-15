@@ -185,6 +185,22 @@
     "wallet_conf": "bitcoin--v0.17.0.conf"
   },
   {
+    "blockchain": "Bitweb",
+    "ticker": "BTE",
+    "ver_id": "bitweb--v0.21.1",
+    "ver_name": "Bitweb v0.21.x",
+    "conf_name": "bitweb.conf",
+    "dir_name_linux": "bitweb",
+    "dir_name_mac": "Bitweb",
+    "dir_name_win": "Bitweb",
+    "repo_url": "https://github.com/SACSaveCoin/bitweb",
+    "versions": [
+      "v0.21.1"
+    ],
+    "xbridge_conf": "bitweb--v0.21.1.conf",
+    "wallet_conf": "bitweb--v0.21.1.conf"
+  },
+  {
     "blockchain": "Bitcoin Cash",
     "ticker": "BCH",
     "ver_id": "bitcoincash--v0.21.11",
