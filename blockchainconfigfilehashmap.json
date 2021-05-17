@@ -1,10 +1,10 @@
 {
 "manifest.json": [
-"dfbff465e3f10fa3f3e8bd50309bab5bb95a4fe4",
+"4c10d876ef18c05978212c62ceddd0eb5ea8a1a1",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest.json"
 ],
 "manifest-latest.json": [
-"dfbff465e3f10fa3f3e8bd50309bab5bb95a4fe4",
+"4c10d876ef18c05978212c62ceddd0eb5ea8a1a1",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifest-latest.json"
 ],
 "manifests/manifest-1.0.0.0.json": [
@@ -12,7 +12,7 @@
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "manifests/manifest-1.0.1.0.json": [
-"dfbff465e3f10fa3f3e8bd50309bab5bb95a4fe4",
+"9959a82279a203aab58e14c6f65a4fc77432dd87",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/manifests/manifest-1.0.0.0.json"
 ],
 "README.md": [
@@ -1234,5 +1234,13 @@
 "xbridge-confs/bitweb--v0.21.1.conf": [
 "dfbff465e3f10fa3f3e8bd50309bab5bb95a4fe4",
 "https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/bitweb--v0.21.1.conf"
+],
+"wallet-confs/widecoin--v1.1.0.conf": [
+"4c10d876ef18c05978212c62ceddd0eb5ea8a1a1",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/wallet-confs/widecoin--v1.1.0.conf"
+],
+"xbridge-confs/widecoin--v1.1.0.conf": [
+"4c10d876ef18c05978212c62ceddd0eb5ea8a1a1",
+"https://raw.githubusercontent.com/scalaris-project/blockchain-configuration-files/master/xbridge-confs/widecoin--v1.1.0.conf"
 ]
 }
