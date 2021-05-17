@@ -781,6 +781,22 @@
     "wallet_conf": "lbrycrd--v0.17.2.0.conf"
   },
   {
+    "blockchain": "Widecoin",
+    "ticker": "WCN",
+    "ver_id": "widecoin--v1.1.0",
+    "ver_name": "Widecoin v1.1.x",
+    "conf_name": "widecoin.conf",
+    "dir_name_linux": "widecoin",
+    "dir_name_mac": "Widecoin",
+    "dir_name_win": "Widecoin",
+    "repo_url": "https://github.com/widecoin-project/widecoin",
+    "versions": [
+      "v1.1.0"
+    ],
+    "xbridge_conf": "widecoin--v1.1.0.conf",
+    "wallet_conf": "widecoin--v1.1.0.conf"
+  },
+  {
     "blockchain": "Litecoin",
     "ticker": "LTC",
     "ver_id": "litecoin--v0.15.1",
