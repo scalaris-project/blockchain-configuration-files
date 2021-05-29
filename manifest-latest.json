@@ -486,6 +486,22 @@
     "wallet_conf": "dogecoin--v1.10.0.conf"
   },
   {
+    "blockchain": "Dogegold",
+    "ticker": "DOGEG",
+    "ver_id": "dogegold--v1.10.0",
+    "ver_name": "Dogegold",
+    "conf_name": "dogegold.conf",
+    "dir_name_linux": "dogegold",
+    "dir_name_mac": "Dogegold",
+    "dir_name_win": "Dogegold",
+    "repo_url": "https://github.com/DogeCoinGold1/DogeGold",
+    "versions": [
+      "v1.14.3"
+    ],
+    "xbridge_conf": "dogegold--v1.10.0.conf",
+    "wallet_conf": "dogegold--v1.10.0.conf"
+  },
+  {
     "blockchain": "Dynamic",
     "ticker": "DYN",
     "ver_id": "dynamic--v2.3.5.0",
