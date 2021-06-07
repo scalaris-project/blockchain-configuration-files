@@ -1,4 +1,9 @@
 # Scalaris's Blockchain Configuration Files
+
+# 1. Important - before you read next , check it you have succes compiled Windows , Linux , and if possible MACOS wallets.
+# 2. Important - before you read next , check if you have native working rpc from all wallets.
+# 3. Important - before you read next , check if your coin is from some " generate own coin for 5 second " if there is fixed https://bitcoincore.org/en/2018/09/20/notice/
+
 This repository contains:
  * The blockchain configuration files needed for trustless exchange(XBridge) on the Blocknet Protocol;
  * An overview of the file structure and contents;
